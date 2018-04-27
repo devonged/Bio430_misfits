@@ -1,0 +1,15 @@
+---
+title: "Pauline"
+author: "Pauline"
+date: "April 27, 2018"
+output: html_document
+---
+```{r}
+library(tidyverse)
+```
+
+```{r}
+getwd()
+setwd(/Users/paulineseto/Desktop/)
+```
+
